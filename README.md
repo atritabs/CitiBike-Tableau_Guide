@@ -6,4 +6,4 @@ Monthly CSV files from (July 2023 - September 2023) were collected from the [Cit
 # Tableau Visualization Page
 The main visualizaton is available on Tableau Public.
 
-[Citi Bike Tableau Analysis](https://public.tableau.com/app/profile/abish.rego/viz/CitiBikeAnalysisJulyAugustSeptember-2023/CitiBikeAnalysis?publish=yes)
+[Citi Bike Tableau Analysis](https://public.tableau.com/views/CitiBikeAnalysisJulyAugustSeptember-2023/CitiBikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
